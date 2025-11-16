@@ -7,9 +7,23 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Psycho World 3D | amhousa.art',
+  description: 'An immersive psychedelic 3D experience with scroll-driven animations by amhousa',
   generator: 'v0.app',
+  authors: [{ name: 'amhousa', url: 'https://amhousa.art' }],
+  keywords: ['3D', 'psychedelic', 'scroll animation', 'three.js', 'react-three-fiber', 'amhousa'],
+  openGraph: {
+    title: 'Psycho World 3D | amhousa.art',
+    description: 'An immersive psychedelic 3D experience with scroll-driven animations',
+    url: 'https://amhousa.art',
+    siteName: 'amhousa.art',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Psycho World 3D | amhousa.art',
+    description: 'An immersive psychedelic 3D experience with scroll-driven animations',
+  },
   icons: {
     icon: [
       {

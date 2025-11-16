@@ -1,7 +1,16 @@
 {
-  "name": "my-v0-project",
+  "name": "amhousa-psycho-world",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://amhousa.art",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amhousa/psycho-world-3-d"
+  },
+  "author": {
+    "name": "amhousa",
+    "url": "https://amhousa.art"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev",
