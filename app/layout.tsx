@@ -7,22 +7,22 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Amirhossein Salmani | Full Stack Developer & AI Specialist',
-  description: 'Personal portfolio of Amirhossein Salmani - Full Stack Web Developer and AI Specialist creating innovative digital experiences',
+  title: 'Amir Hossein Salmani | Full Stack Developer & AI Specialist',
+  description: 'Personal portfolio of Amir Hossein Salmani - Full Stack Web Developer and AI Specialist creating innovative digital experiences',
   generator: 'v0.app',
-  authors: [{ name: 'Amirhossein Salmani', url: 'https://amhousa.art' }],
-  keywords: ['Full Stack Developer', 'AI Specialist', 'Web Developer', 'React', 'Next.js', 'amhousa', 'Amirhossein Salmani'],
+  authors: [{ name: 'Amir Hossein Salmani', url: 'https://amhousa.art' }],
+  keywords: ['Full Stack Developer', 'AI Specialist', 'Web Developer', 'React', 'Next.js', 'amhousa', 'Amir Hossein Salmani'],
   openGraph: {
-    title: 'Amirhossein Salmani | Full Stack Developer & AI Specialist',
-    description: 'Personal portfolio of Amirhossein Salmani - Creating innovative digital experiences with code and AI',
+    title: 'Amir Hossein Salmani | Full Stack Developer & AI Specialist',
+    description: 'Personal portfolio of Amir Hossein Salmani - Creating innovative digital experiences with code and AI',
     url: 'https://amhousa.art',
     siteName: 'amhousa.art',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Amirhossein Salmani | Full Stack Developer & AI Specialist',
-    description: 'Personal portfolio of Amirhossein Salmani - Creating innovative digital experiences with code and AI',
+    title: 'Amir Hossein Salmani | Full Stack Developer & AI Specialist',
+    description: 'Personal portfolio of Amir Hossein Salmani - Creating innovative digital experiences with code and AI',
   },
   icons: {
     icon: [

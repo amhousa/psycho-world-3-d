@@ -13,7 +13,7 @@ export function Overlay() {
             <div className="absolute -inset-4 bg-gradient-to-r from-[#ff00ff] via-[#00ffff] to-[#00ff88] rounded-full blur-2xl opacity-40 group-hover:opacity-60 transition-opacity duration-500" />
             <img
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/me-q2QtDuBet3iyGRLMDnYn0bl1idVaK7.webp"
-              alt="Amirhossein Salmani"
+              alt="Amir Hossein Salmani"
               className="relative w-36 h-36 md:w-48 md:h-48 rounded-full object-cover border-4 border-[#00ffff]/50 shadow-2xl shadow-[#00ffff]/20"
             />
           </div>
@@ -21,13 +21,13 @@ export function Overlay() {
           {/* Name */}
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight">
-              <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#ff00ff] via-[#00ffff] to-[#00ff88]">
-                Amirhossein
+              <span className="text-white">
+                Amir Hossein
               </span>
               <br />
-              <span className="text-foreground">Salmani</span>
+              <span className="text-white/90">Salmani</span>
             </h1>
-            <p className="text-xl md:text-2xl text-[#00ffff] font-mono tracking-wide">
+            <p className="text-xl md:text-2xl text-white/80 font-mono tracking-wide">
               Full Stack Developer & AI Specialist
             </p>
           </div>
@@ -73,8 +73,8 @@ export function Overlay() {
       <div className="min-h-screen flex items-center justify-center px-6 py-20">
         <div className="max-w-4xl space-y-12">
           <div className="text-center space-y-4">
-            <h2 className="text-4xl md:text-6xl font-bold">
-              <span className="text-[#00ffff]">About</span> Me
+            <h2 className="text-4xl md:text-6xl font-bold text-white">
+              About <span className="text-white/80">Me</span>
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
               I craft digital experiences that blend creativity with cutting-edge technology. 
@@ -101,8 +101,8 @@ export function Overlay() {
       <div className="min-h-screen flex items-center justify-center px-6 py-20">
         <div className="max-w-5xl w-full space-y-12">
           <div className="text-center">
-            <h2 className="text-4xl md:text-6xl font-bold">
-              <span className="text-[#00ff88]">What I</span> Do
+            <h2 className="text-4xl md:text-6xl font-bold text-white">
+              What I <span className="text-white/80">Do</span>
             </h2>
           </div>
 
@@ -168,8 +168,8 @@ export function Overlay() {
       <div className="min-h-screen flex items-center justify-center px-6 py-20">
         <div className="max-w-4xl w-full space-y-12">
           <div className="text-center">
-            <h2 className="text-4xl md:text-6xl font-bold">
-              <span className="text-[#ff00ff]">Featured</span> Project
+            <h2 className="text-4xl md:text-6xl font-bold text-white">
+              Featured <span className="text-white/80">Project</span>
             </h2>
           </div>
 
@@ -225,8 +225,8 @@ export function Overlay() {
       <div className="min-h-screen flex items-center justify-center px-6 py-20">
         <div className="max-w-3xl w-full text-center space-y-12">
           <div className="space-y-4">
-            <h2 className="text-4xl md:text-6xl font-bold">
-              {"Let's"} <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#ff00ff] via-[#00ffff] to-[#00ff88]">Connect</span>
+            <h2 className="text-4xl md:text-6xl font-bold text-white">
+              {"Let's"} <span className="text-white/80">Connect</span>
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto">
               {"I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions."}
@@ -288,7 +288,7 @@ export function Overlay() {
         <div className="max-w-4xl mx-auto text-center space-y-6">
           <div className="h-px bg-gradient-to-r from-transparent via-foreground/20 to-transparent" />
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted-foreground font-mono">
-            <span>© 2025 Amirhossein Salmani</span>
+            <span>© 2025 Amir Hossein Salmani</span>
             <span className="flex items-center gap-2">
               Crafted with
               <span className="text-[#ff00ff]">passion</span>
