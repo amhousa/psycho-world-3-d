@@ -9,7 +9,7 @@ export function PsychoWorld() {
   return (
     <div className="w-full h-screen relative">
       <Canvas camera={{ position: [0, 0, 10], fov: 50 }}>
-        <ScrollControls pages={5} damping={0.25}>
+        <ScrollControls pages={6} damping={0.25}>
           <Scene />
           <Scroll html>
             <Overlay />

@@ -152,10 +152,15 @@ export function Scene() {
       <PulsingSphere position={[3, -1, -17]} color="#00ff88" scrollOffset={0.75} />
       <RotatingBox position={[-3, 0, -16]} color="#00ffff" scrollOffset={0.75} />
       
-      {/* Fifth section - Page 1.0 */}
-      <RotatingTorus position={[-1, 0, -20]} color="#00ffff" scrollOffset={1} />
-      <PulsingSphere position={[2, 2, -22]} color="#ff00ff" scrollOffset={1} />
-      <RotatingBox position={[0, -2, -21]} color="#00ff88" scrollOffset={1} />
+      {/* Fifth section - Page 0.8 */}
+      <RotatingTorus position={[-1, 0, -20]} color="#00ffff" scrollOffset={0.8} />
+      <PulsingSphere position={[2, 2, -22]} color="#ff00ff" scrollOffset={0.8} />
+      <RotatingBox position={[0, -2, -21]} color="#00ff88" scrollOffset={0.8} />
+      
+      {/* Sixth section - Page 1.0 */}
+      <RotatingTorus position={[0, 0, -25]} color="#ff00ff" scrollOffset={1} />
+      <PulsingSphere position={[-3, 1, -27]} color="#00ffff" scrollOffset={1} />
+      <RotatingBox position={[3, -1, -26]} color="#00ff88" scrollOffset={1} />
     </>
   )
 }

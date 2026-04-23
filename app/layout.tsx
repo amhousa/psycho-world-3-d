@@ -7,22 +7,22 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Psycho World 3D | amhousa.art',
-  description: 'An immersive psychedelic 3D experience with scroll-driven animations by amhousa',
+  title: 'Amirhossein Salmani | Full Stack Developer & AI Specialist',
+  description: 'Personal portfolio of Amirhossein Salmani - Full Stack Web Developer and AI Specialist creating innovative digital experiences',
   generator: 'v0.app',
-  authors: [{ name: 'amhousa', url: 'https://amhousa.art' }],
-  keywords: ['3D', 'psychedelic', 'scroll animation', 'three.js', 'react-three-fiber', 'amhousa'],
+  authors: [{ name: 'Amirhossein Salmani', url: 'https://amhousa.art' }],
+  keywords: ['Full Stack Developer', 'AI Specialist', 'Web Developer', 'React', 'Next.js', 'amhousa', 'Amirhossein Salmani'],
   openGraph: {
-    title: 'Psycho World 3D | amhousa.art',
-    description: 'An immersive psychedelic 3D experience with scroll-driven animations',
+    title: 'Amirhossein Salmani | Full Stack Developer & AI Specialist',
+    description: 'Personal portfolio of Amirhossein Salmani - Creating innovative digital experiences with code and AI',
     url: 'https://amhousa.art',
     siteName: 'amhousa.art',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Psycho World 3D | amhousa.art',
-    description: 'An immersive psychedelic 3D experience with scroll-driven animations',
+    title: 'Amirhossein Salmani | Full Stack Developer & AI Specialist',
+    description: 'Personal portfolio of Amirhossein Salmani - Creating innovative digital experiences with code and AI',
   },
   icons: {
     icon: [
