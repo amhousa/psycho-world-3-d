@@ -1,4 +1,4 @@
-# Psycho World 3D by amhousa
+# Psycho World 3D by Amirhossein Salmani
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://amhousa.art)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app)
@@ -113,9 +113,11 @@ MIT License - feel free to use this template for your own projects!
 
 ## Author
 
-**amhousa**
+**Amirhossein Salmani**
 - Website: [amhousa.art](https://amhousa.art)
 - GitHub: [@amhousa](https://github.com/amhousa)
+- Email: amirhosseinsalmanidev@gmail.com
+- Role: Full Stack Web Developer | AI Specialist
 
 ## Acknowledgments
 
